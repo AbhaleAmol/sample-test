@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<open-account>
+	<personal-details>
+		<first-name>Amol</first-name>
+		<last-name>Abhale</last-name>
+		<email-id>amol@cykul.com</email-id>
+		<mobile-no>8143495180</mobile-no>
+	</personal-details>
+	<account-details>
+		<account-type>savings</account-type>
+		<cheque-facility>true</cheque-facility>
+		<net-banking-facility>true</net-banking-facility>
+	</account-details>
+</open-account>
